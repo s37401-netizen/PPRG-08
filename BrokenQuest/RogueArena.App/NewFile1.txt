@@ -1,0 +1,2 @@
+﻿Zadanie 4
+- wpisy projektu w plikach nie są zależne od kompilacji

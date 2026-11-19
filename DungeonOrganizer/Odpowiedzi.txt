@@ -1,0 +1,13 @@
+﻿Zadanie 1
+-Kod nadal się kompiluje
+-Weapon
+-Folder nie zmenil namespace
+
+Zadanie 2
+-W obu wersjach kod normalnie się kompiluje, po prostu zmeiniamy path do tworzenia przedmiotow
+- using podaje path
+- using nie dodaje plikow
+- dwie wersji robia to samo
+- using to po poprostu korzystanie z innego pliku
+
+Zadanie 3
